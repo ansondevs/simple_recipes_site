@@ -1,0 +1,29 @@
+h1 {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+h2 {
+    font-weight: bold;
+    background-color: orange;
+    text-align: center;
+}
+
+body li {
+    font-size: 20px;
+}
+
+a {
+    font-size: 28px;
+    color: blue;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
