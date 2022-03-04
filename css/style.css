@@ -12,6 +12,7 @@ p {
     font-weight: bold;
     text-align: center;
     color: white;
+    font-family: Arial,Georgia,Sans-serif;
 }
 .h2.description {
     background-color: orange;
