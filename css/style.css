@@ -8,10 +8,21 @@ p {
     font-size: 18px;
 }
 
-h2 {
+.h2 {
     font-weight: bold;
-    background-color: orange;
     text-align: center;
+    color: white;
+}
+.h2.description {
+    background-color: orange;
+    color: black;
+}
+.h2.ingredients {
+    background-color: darkgreen; 
+}
+
+.h2.steps {
+    background-color: darkviolet;
 }
 
 body li {
